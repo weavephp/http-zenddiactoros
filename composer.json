@@ -1,0 +1,20 @@
+{
+	"name": "weavephp/http-zenddiactoros",
+	"description": "Weave glue-framework Zend Diactoros PSR7 HTTP Message adaptor",
+	"type": "package",
+	"version": "0.0.1",
+	"authors": [
+		{
+			"name": "Robert Goldsmith",
+			"email": "r.s.goldsmith@far-blue.co.uk"
+		}
+	],
+	"require": {
+		"zendframework/zend-diactoros":"^1.6"
+	},
+	"autoload": {
+		"psr-4": {
+			"Weave\\Http\\ZendDiactoros\\": "src/"
+		}
+	}
+}
