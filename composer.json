@@ -4,6 +4,7 @@
 	"type": "weave-adaptor",
 	"keywords" : ["weave", "PSR7", "adaptor"],
 	"license": "MIT",
+	"abandoned": "weavephp/http-laminasdiactoros",
 	"authors": [
 		{
 			"name": "Robert Goldsmith",
